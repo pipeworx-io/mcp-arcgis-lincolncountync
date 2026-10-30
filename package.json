@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-lincolncountync",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Lincoln County GIS — Lincoln County, North Carolina open geospatial data (ArcGIS).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "arcgis-lincolncountync",
     "gatewaySlug": "arcgis-lincolncountync",
-    "sourceHash": "v1-0e0ec9b889b8d9e5eaeca6a1a3297c8287f0d8c7c089ce0819477d484b1f62ce",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-2831d061def4eb3b99a5f76ec8bac3483c073283ba69bc50fba3c53a92958321",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
